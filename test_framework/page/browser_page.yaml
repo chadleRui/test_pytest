@@ -1,0 +1,8 @@
+- browser: chrome
+  page: https://ceshiren.com/
+#
+#- browser: firefox
+#  page: https://ceshiren.com/
+#
+#- browser: ie
+#  page: https://ceshiren.com/

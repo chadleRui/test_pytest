@@ -1,0 +1,8 @@
+- by: id
+  locator: search-button
+  action: click
+
+- by: id
+  locator: search-term
+  action: send
+  value: "{value}"
